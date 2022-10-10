@@ -1,0 +1,58 @@
+img.ahmed {
+    width: 100px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 10px;
+  }
+
+  p.username {
+    font-weight: bold;
+  }
+  em {
+    color: red;
+    font-style: normal;
+  }
+img.cof {
+width: 200px;
+height: 200px;
+object-fit: cover;
+}
+video{
+width: 400px;
+}
+ul{
+list-style-type:square;
+}
+table, td, th {
+border: 1px solid grey;
+border-collapse: collapse;
+padding: 5px;
+}
+tfoot{
+text-align: left ;
+}
+p::selection{
+background-color: grey;
+color: gold;
+}
+.product {
+background-color: gold;
+width: 300px;
+}
+.highlight {
+background-color: aqua;
+}
+.header {
+    position: fixed;
+    left: 2px;
+    top: 2px;
+    background-color: darkblue;
+    color: white;
+    margin-top: ;
+}
+footer {
+background-color: darkblue;
+color: white;
+text-align: center;
+padding: 1px;
+}
